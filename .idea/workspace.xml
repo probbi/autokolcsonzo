@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1730e736-9feb-486c-b43f-38f5b144ef6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/berles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autokolcsonzo.py" beforeDir="false" afterPath="$PROJECT_DIR$/autokolcsonzo.py" afterDir="false" />
     </list>
@@ -14,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="7" />
+    <option name="cachedIndexableFilesCount" value="3" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -114,7 +115,8 @@
       <option name="presentableId" value="Default" />
       <updated>1776164067262</updated>
       <workItem from="1776164068509" duration="1582000" />
-      <workItem from="1776165667262" duration="8316000" />
+      <workItem from="1776165667262" duration="8540000" />
+      <workItem from="1776183949594" duration="258000" />
     </task>
     <servers />
   </component>

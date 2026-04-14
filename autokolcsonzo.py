@@ -73,9 +73,11 @@ class TeherAuto(Auto):
         super().__init__(rendszam, tipus, berleti_dij)
         self.__teherbiras: int = teherbiras
 
+
         @property
          def teherbiras(self) -> int:
              return self.__teherbiras
+
 
         def berleti_dij_szamitas(self) -> float:
             return self.berleti_dij
