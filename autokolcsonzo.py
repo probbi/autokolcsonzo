@@ -46,3 +46,41 @@ class Auto(ABC):
     def berleti_dij_szamitas(self) -> float:
         pass
 
+
+from autokolcsonzo import Auto
+
+
+class SzemélyAutó(Auto):
+    def __int__(self, rendszam: str, tipus: str, berleti_dij: float, utasszam: int)
+        super().__init__(rendszam, tipus, berleti_dij)
+        self.__utasszam: int = utasszam
+
+
+    @property
+    def utasszam(self) -> int:
+        return self.__utasszam
+
+
+    def berleti_dij_szamitas(self) -> float:
+        return self.berleti_dij
+
+
+from autokolcsonzo import Auto
+
+
+class TeherAuto(Auto):
+    def __init__(self, rendszam: str, tipus: str, berleti_dij: float, teherbiras: int) -> None:
+        super().__init__(rendszam, tipus, berleti_dij)
+        self.__teherbiras: int = teherbiras
+
+        @property
+         def teherbiras(self) -> int:
+             return self.__teherbiras
+
+        def berleti_dij_szamitas(self) -> float:
+            return self.berleti_dij
+
+
+
+
+

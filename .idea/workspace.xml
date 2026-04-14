@@ -47,6 +47,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.autokolcsonzo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -113,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776164067262</updated>
       <workItem from="1776164068509" duration="1582000" />
-      <workItem from="1776165667262" duration="3916000" />
+      <workItem from="1776165667262" duration="8316000" />
     </task>
     <servers />
   </component>
