@@ -1,7 +1,4 @@
-
-<video src="https://pub-735e280475974f1e814498324f63acd9.r2.dev/HH303S.mp4" width="100%" controls muted>
-  <a href="https://pub-735e280475974f1e814498324f63acd9.r2.dev/HH303S.mp4">Kattints ide a videó megnyitásához!</a>
-</video>
+![Elevator Pitch](https://pub-735e280475974f1e814498324f63acd9.r2.dev/HH303S.mp4)
 
 # Autókölcsönző Rendszer
 
