@@ -1,4 +1,4 @@
-[![Elevator Pitch](https://pub-91da716c25164a4a9bb1755980b809e1.r2.dev/K%C3%A9perny%C5%91k%C3%A9p_20260415_145814.png)](https://pub-735e280475974f1e814498324f63acd9.r2.dev/HH303S.mp4)
+[![Elevator Pitch](https://pub-91da716c25164a4a9bb1755980b809e1.r2.dev/K%C3%A9perny%C5%91k%C3%A9p_20260415_145814.png)](https://pub-735e280475974f1e814498324f63acd9.r2.dev/HH303S-Autokolcsonzo.mp4)
 Kérlek kattints a képre ha szeretnéd megtekinteni az Elevator Pitch videót!
 # Autókölcsönző Rendszer
 

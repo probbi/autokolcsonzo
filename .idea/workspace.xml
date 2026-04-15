@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1730e736-9feb-486c-b43f-38f5b144ef6f" name="Changes" comment="Videótartalom hozzáadása - próba 02">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="1730e736-9feb-486c-b43f-38f5b144ef6f" name="Changes" comment="Videótartalom hozzáadása és felirat.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,8 @@
       <workItem from="1776183949594" duration="11484000" />
       <workItem from="1776197356827" duration="14924000" />
       <workItem from="1776246033508" duration="5690000" />
-      <workItem from="1776256739344" duration="1301000" />
+      <workItem from="1776256739344" duration="2653000" />
+      <workItem from="1776268961136" duration="1168000" />
     </task>
     <task id="LOCAL-00001" summary="Autókölcsönző projekt véglegesítése">
       <option name="closed" value="true" />
@@ -160,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776257837896</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Videótartalom hozzáadása és felirat.">
+      <option name="closed" value="true" />
+      <created>1776258042856</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776258042856</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Videótartalom hozzáadása és felirat.">
+      <option name="closed" value="true" />
+      <created>1776258174929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776258174929</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,10 +189,11 @@
     <MESSAGE value="Videótartalom beágyazása a README.md fájlba" />
     <MESSAGE value="Videótartalom hozzáadása" />
     <MESSAGE value="Videótartalom hozzáadása - próba 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Videótartalom hozzáadása - próba 02" />
+    <MESSAGE value="Videótartalom hozzáadása és felirat." />
+    <option name="LAST_COMMIT_MESSAGE" value="Videótartalom hozzáadása és felirat." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/autokolcsonzo$main.coverage" NAME="main Coverage Results" MODIFIED="1776249633006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autokolcsonzo$main.coverage" NAME="main Coverage Results" MODIFIED="1776270120166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/autokolcsonzo$autokolcsonzo.coverage" NAME="autokolcsonzo Coverage Results" MODIFIED="1776164128140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
