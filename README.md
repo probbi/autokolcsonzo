@@ -1,4 +1,4 @@
-![Elevator Pitch](https://pub-735e280475974f1e814498324f63acd9.r2.dev/HH303S.mp4)
+[![Elevator Pitch](https://pub-91da716c25164a4a9bb1755980b809e1.r2.dev/elevator-pitch-.jpg)](https://pub-735e280475974f1e814498324f63acd9.r2.dev/HH303S.mp4)
 
 # Autókölcsönző Rendszer
 
