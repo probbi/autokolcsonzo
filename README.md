@@ -1,7 +1,3 @@
-[![Elevator Pitch](https://pub-91da716c25164a4a9bb1755980b809e1.r2.dev/HH303S-Autokolcsonzo.webp)](https://pub-735e280475974f1e814498324f63acd9.r2.dev/HH303S-Autokolcsonzo.mp4)
-Kérlek kattints a képre ha szeretnéd megtekinteni az Elevator Pitch videót!
-# Autókölcsönző Rendszer
-
 Ez a projekt egy egyszerű, konzolos autókölcsönző alkalmazás Python nyelven. A célja egy valósághű példa bemutatása objektumorientált programozási alapokkal.
 
 A rendszer lehetővé teszi az autók kölcsönzését, a bérlések lemondását és az aktuális bérlések listázását. Kétféle járműtípus szerepel benne: személyautó és teherautó. A projekt induláskor már tartalmaz 3 autót és 4 kezdeti bérlést, így rögtön használatra kész. A rendszer azt is kezeli, ha egy autó már foglalt az adott napra, illetve hibát jelez nem létező bérlés lemondásakor.
