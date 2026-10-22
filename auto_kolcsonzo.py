@@ -1,5 +1,5 @@
 from datetime import date
-from autokolcsonzo import Auto, SzemelyAuto, TeherAuto # Minden innen jön!
+from autok import Auto, SzemelyAuto, TeherAuto # Minden innen jön!
 from berles import Berles
 
 
